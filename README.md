@@ -1,5 +1,4 @@
 # Cuaderno-de-aprendizaje-de-Pyton-
-# Cuaderno-de-aprendizaje-de-pyton
 
 # Python — Procesamiento de Datos a Gran Escala (Notebooks)
 
