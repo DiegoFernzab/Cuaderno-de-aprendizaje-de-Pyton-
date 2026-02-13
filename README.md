@@ -74,31 +74,13 @@ Fortalecer las bases de Python (estructuras de datos, control de flujo y program
 ---
 
 ## Requisitos
-- Python 3.9+ (recomendado)
-- Jupyter Notebook / JupyterLab
-
----
+- Python
 
 ## Cómo ejecutar los notebooks
 
-### Opción A — Con Anaconda (recomendado si estás empezando)
-1. Instala Anaconda
-2. Abre Anaconda Navigator → **JupyterLab** o **Notebook**
-3. Abre este repositorio y ejecuta los `.ipynb`
+### Databricks
+1. Ingresa a Databricks
+2. Inicia sesion 
+3. Carga los archivos y ejecutalos
 
-### Opción B — Con `pip` y entorno virtual
-```bash
-# 1) Crear entorno
-python -m venv .venv
 
-# 2) Activar entorno
-# Windows:
-.venv\Scripts\activate
-# Mac/Linux:
-source .venv/bin/activate
-
-# 3) Instalar Jupyter
-pip install notebook jupyterlab
-
-# 4) Ejecutar
-jupyter lab
